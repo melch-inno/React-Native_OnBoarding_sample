@@ -1,3 +1,4 @@
+![React-Native OnBoarding Sample](https://github.com/melch-inno/React-Native_OnBoarding_sample/workflows/React-Native%20OnBoarding%20Sample/badge.svg)
 # React-Native_OnBoarding_sample
 
 
